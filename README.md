@@ -1,4 +1,4 @@
-# Majsoul_DIY
+# Majsoul雀魂_DIY
 English:<br>
 Majsoul customized decorations<br>
 The project is created for making custom UI files of game "Majsoul".<br>
