@@ -1,0 +1,18 @@
+{
+	"request": [
+		{
+			"enable": true,
+			"name": "雀魂日文按钮",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^http(s?)://(majsoul)\\.union-game\\.com/0/[^/]+/res/atlas/myres/mjdesktop2.png",
+			"exclude": "",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://i.loli.net/2019/01/21/5c44d83398c2b.png",
+			"group": "雀魂日文按钮"
+		}
+	],
+	"sendHeader": [],
+	"receiveHeader": []
+}
