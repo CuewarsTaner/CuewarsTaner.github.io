@@ -13,6 +13,8 @@ Majsoul customized decorations<br>
 The project is created for making custom UI files of game "Majsoul".<br>
 Inside Chrome or Firefox browser, install "Header Editor" extension, go to its setting > export/import page. Download the rule with the json URL in the project and SAVE it(at the bottom of the page). Then enable it.<br><br>
 Don't forget to REFRESH the page to make the custom UI applied.<br>
+※The rule link is a direct downloadable RAW link. Click into the json and choose RAW to get the direct link. Then copy its download link.
+
 Download link of "Header Editor"/插件【Header Editor】的下载链接:<br>
 【Chrome】https://chrome.google.com/webstore/detail/header-editor/eningockdidmgiojffjmkdblpjocbhgh?hl=zh-CN<br>
 【Firefox】https://addons.mozilla.org/en-US/firefox/addon/header-editor/<br>
