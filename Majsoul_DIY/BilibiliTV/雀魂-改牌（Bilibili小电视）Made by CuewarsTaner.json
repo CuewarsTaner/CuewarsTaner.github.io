@@ -1,0 +1,18 @@
+{
+	"request": [
+		{
+			"enable": true,
+			"name": "雀魂-改牌（Bilibili小电视）Made by CuewarsTaner",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^http(s?)://(majsoul)\\.union-game\\.com/0/[^/]+/(res/atlas/myres2/mjp|scene/Assets/Resource/mjpai)/[^/]+/(ui\\.png|hand\\.png|\\d[mpsz]\\.png)",
+			"exclude": "",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://CuewarsTaner.github.io/Majsoul_DIY/BilibiliTV/$3/$4",
+			"group": "小电视牌背"
+		}
+	],
+	"sendHeader": [],
+	"receiveHeader": []
+}
