@@ -9,7 +9,7 @@
 ※该链接才是你要复制粘贴的链接<br>
 
 以下是常用项目的json链接列表：
-【】Bilibili天蓝色小电视牌背】https://raw.githubusercontent.com/CuewarsTaner/CuewarsTaner.github.io/master/Majsoul_DIY/BilibiliTV/%E9%9B%80%E9%AD%82-%E6%94%B9%E7%89%8C%EF%BC%88Bilibili%E5%B0%8F%E7%94%B5%E8%A7%86%EF%BC%89Made%20by%20CuewarsTaner.json
+【Bilibili天蓝色小电视牌背】https://dwz.cn/LCi1nBPk
 
 English:<br>
 Majsoul customized decorations<br>
