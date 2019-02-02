@@ -8,8 +8,8 @@
 ※关于超链接（URL）：json文件的链接（URL），请先点进上方JSON文件，然后点击上方的RAW按钮，进入纯代码文件的直接链接（RAW开头的网址）<br>
 ※该链接才是你要复制粘贴的链接<br>
 
-以下是常用项目的json链接列表：
-【Bilibili天蓝色小电视牌背】https://dwz.cn/LCi1nBPk
+以下是常用项目的json链接列表：<br>
+1.【Bilibili天蓝色小电视牌背】https://dwz.cn/LCi1nBPk
 
 English:<br>
 Majsoul customized decorations<br>
