@@ -1,0 +1,42 @@
+{
+	"request": [
+		{
+			"enable": true,
+			"name": "游戏内日文按钮2",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^http(s?)://(majsoul)\\.union-game\\.com/0/[^/]+/res/atlas/myres/mjdesktop2.png",
+			"exclude": "",
+			"group": "雀魂日文UI界面",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://CuewarsTaner.github.io/Majsoul_DIY/JapaneseUI/mjdesktop2.png"
+		},
+		{
+			"enable": true,
+			"name": "游戏内日文按钮3",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^http(s?)://(majsoul)\\.union-game\\.com/0/[^/]+/res/atlas/myres/mjdesktop3.png",
+			"exclude": "",
+			"group": "雀魂日文UI界面",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://CuewarsTaner.github.io/Majsoul_DIY/JapaneseUI/mjdesktop3.png"
+		},
+		{
+			"enable": true,
+			"name": "游戏内日文按钮4",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^http(s?)://(majsoul)\\.union-game\\.com/0/[^/]+/res/atlas/myres2.png",
+			"exclude": "",
+			"group": "雀魂日文UI界面",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://CuewarsTaner.github.io/Majsoul_DIY/JapaneseUI/myres2.png"
+		}
+	],
+	"sendHeader": [],
+	"receiveHeader": []
+}
