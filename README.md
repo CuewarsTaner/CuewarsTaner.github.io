@@ -9,8 +9,8 @@
 ※该链接才是你要复制粘贴的链接<br>
 
 以下是常用项目的json链接列表（粘贴到Header Editor的下载规则）：<br>
-1.【Bilibili天蓝色小电视牌背】导入链接：https://dwz.cn/LCi1nBPk
-2.【透明黑分数显示板】导入链接：https://dwz.cn/qywt3fQc
+1.【Bilibili天蓝色小电视牌背】导入链接：https://dwz.cn/LCi1nBPk<br>
+2.【透明黑分数显示板】导入链接：https://dwz.cn/qywt3fQc<br>
 
 English:<br>
 Majsoul customized decorations<br>
