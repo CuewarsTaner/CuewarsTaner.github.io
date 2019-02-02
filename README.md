@@ -24,4 +24,4 @@ Download link of "Header Editor"/插件【Header Editor】的下载链接:<br>
 【Chrome】https://chrome.google.com/webstore/detail/header-editor/eningockdidmgiojffjmkdblpjocbhgh?hl=zh-CN<br>
 【Firefox】https://addons.mozilla.org/en-US/firefox/addon/header-editor/<br><br>
 
-感谢编辑：梓丶稚あ强袭
+感谢参与编辑：梓丶稚あ强袭
