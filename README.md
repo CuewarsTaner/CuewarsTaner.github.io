@@ -14,7 +14,7 @@
 3.【游戏内日文按钮】导入链接：https://dwz.cn/A7w3cE6N<br><br>
 
 现在本项目的MOD支持【雀魂Plus】桌面客户端啦（感谢雀魂Plus提供的桌面客户端平台！）<br>
-[附：【雀魂Plus】项目的最新发布版本页面](https://github.com/MajsoulPlus/majsoul-plus-client/releases)<br>
+[附：【雀魂Plus】项目的最新发布版本页面，可以在这里下载到最新版本的雀魂Plus桌面客户端](https://github.com/MajsoulPlus/majsoul-plus-client/releases)<br>
 下面是雀魂Plus的MOD包，请在雀魂Plus内导入并启动，即可使用MOD包：<br>
 1.【Bilibili天蓝色小电视牌背】MOD包下载链接：https://dwz.cn/rDj6HQjI<br>
 2.【透明黑分数显示板】MOD包下载链接：https://dwz.cn/z4BLJ99s<br>
