@@ -1,0 +1,30 @@
+{
+	"request": [
+		{
+			"enable": true,
+			"name": "透明黑分数显示板",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^http(s?)://(majsoul)\\.union-game\\.com/0/[^/]+/scene/Assets/Resource/table/tablemid/(.*\\.png)",
+			"exclude": "",
+			"group": "分数显示板",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://CuewarsTaner.github.io/Majsoul_DIY/BlackDesk/$3"
+		},
+		{
+			"enable": true,
+			"name": "透明黑分数显示板 Made by CuewarsTaner",
+			"ruleType": "redirect",
+			"matchType": "regexp",
+			"pattern": "^http(s?)://(majsoul)\\.union-game\\.com/0/[^/]+/scene/Assets/Resource/table/tablemid/(.*\\.png)",
+			"exclude": "",
+			"group": "分数显示板",
+			"isFunction": false,
+			"action": "redirect",
+			"to": "https://CuewarsTaner.github.io/Majsoul_DIY/BlackDesk/$3"
+		}
+	],
+	"sendHeader": [],
+	"receiveHeader": []
+}
