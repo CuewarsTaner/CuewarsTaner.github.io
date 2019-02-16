@@ -18,7 +18,8 @@
 下面是雀魂Plus的MOD包，请在雀魂Plus内导入并启动，即可使用MOD包：<br>
 1.【Bilibili天蓝色小电视牌背】MOD包下载链接：https://dwz.cn/OYPezGWw<br>（仅替换默认皮肤，请将游戏内的牌背皮肤取消使用）<br>
 2.【透明黑分数显示板】MOD包下载链接：https://dwz.cn/pXeE39PG<br>
-3.【游戏内日文按钮】MOD包下载链接：https://dwz.cn/Hy219WeC<br><br>
+3.【游戏内日文按钮】MOD包下载链接：https://dwz.cn/Hy219WeC<br>
+4.【主界面背景替换模块v1.0-CuewarsTaner】MOD包下载链接： https://dwz.cn/BEMbut7d<br><br>
 
 English:<br>
 Majsoul customized decorations<br>
